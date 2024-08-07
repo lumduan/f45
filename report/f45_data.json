@@ -1,0 +1,50 @@
+[
+    {
+        "symbol": "DOHOME",
+        "last_update": "2024-08-07T08:41:00",
+        "quarter": 2,
+        "year": 2024,
+        "net_profit": 192594.0,
+        "eps": 0.06
+    },
+    {
+        "symbol": "PMTA",
+        "last_update": "2024-08-07T08:40:00",
+        "quarter": 2,
+        "year": 2024,
+        "net_profit": 50180.0,
+        "eps": 0.5
+    },
+    {
+        "symbol": "BBGI",
+        "last_update": "2024-08-07T08:30:00",
+        "quarter": 2,
+        "year": 2024,
+        "net_profit": 39719.0,
+        "eps": 0.03
+    },
+    {
+        "symbol": "KIAT",
+        "last_update": "2024-08-07T08:16:00",
+        "quarter": 2,
+        "year": 2024,
+        "net_profit": 6248.7,
+        "eps": 0.002
+    },
+    {
+        "symbol": "DRT",
+        "last_update": "2024-08-07T08:07:00",
+        "quarter": 2,
+        "year": 2024,
+        "net_profit": 150211.0,
+        "eps": 0.18
+    },
+    {
+        "symbol": "III",
+        "last_update": "2024-08-07T07:47:00",
+        "quarter": 2,
+        "year": 2024,
+        "net_profit": 102746.0,
+        "eps": 0.1313
+    }
+]
